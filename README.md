@@ -1,7 +1,7 @@
 # tianchi_bigdata
 任务：
 
-	详见：[天池大数据任务介绍] (http://tianchi.aliyun.com/competition/information.htm?spm=0.0.0.0.y1LXeD&raceId=1)
+	[详见天池大数据任务介绍](http://tianchi.aliyun.com/competition/information.htm?spm=0.0.0.0.y1LXeD&raceId=1)
 
 特征（39维）：
 
@@ -10,7 +10,7 @@
 数据采样
 
 	采用移动窗口target+移动窗口样本采样
-[Markdown](http://blog.csdn.net/zhaokaiqiang1992)	
+
 训练数据
 
 	正样本：15000，负样本：130000
