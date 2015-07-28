@@ -1,4 +1,7 @@
 # tianchi_bigdata
+任务：
+
+	详见：http://tianchi.aliyun.com/competition/information.htm?spm=0.0.0.0.y1LXeD&raceId=1
 
 特征（39维）：
 
@@ -18,7 +21,7 @@
 	
 结果划分
 
-	结果最终取置信度0.78,取470条结果(子集结果)，最终f1值：11.04%，排名:25/7200
+	结果最终取置信度0.78,取470条结果(子集结果)，最终f1值：11.04%，排名:25/7200，队伍名：叮当，排名详见http://tianchi.aliyun.com/competition/rankingList.htm?spm=0.0.0.0.OyeBsu&season=0&raceId=1&pageIndex=2
 	
 学习模型
 	RF
