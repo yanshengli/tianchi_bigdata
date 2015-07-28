@@ -24,7 +24,6 @@
 	结果最终取置信度0.78,取470条结果(子集结果)，最终f1值：11.04%
 	
 	排名:25/7200，队伍名：叮当
-[排名详见大赛排名] (http://tianchi.aliyun.com/competition/rankingList.htm?spm=0.0.0.0.OyeBsu&season=0&raceId=1&pageIndex=2)
 	
 学习模型
 
@@ -49,3 +48,5 @@
 	global_feature.py:提取全局比例特征
 	
 	product_test_data.py:产生测试数据
+	
+[大赛排名] (http://tianchi.aliyun.com/competition/rankingList.htm?spm=0.0.0.0.OyeBsu&season=0&raceId=1&pageIndex=2)
