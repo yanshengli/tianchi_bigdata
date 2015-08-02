@@ -9,7 +9,7 @@
 	
 数据采样
 
-	采用移动窗口target+移动窗口样本采样
+	采用移动窗口target（17、15、13、11、9）+移动窗口样本采样（1、3、7、全部）
 
 训练数据
 
@@ -37,9 +37,9 @@
 	
 	fetch_feature.py：提取特征
 	
-	fetch_negative_sample:提取负样本
+	fetch_negative_sample:负样本抽样
 	
-	fetch_sample:提取正样本
+	fetch_sample:提取正、负样本
 	
 	get_feature_vector_txt_4.py:提取特征向量，去掉用户-商品标示
 	
