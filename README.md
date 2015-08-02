@@ -43,10 +43,12 @@
 	
 	get_feature_vector_txt_4.py:提取特征向量，去掉用户-商品标示
 	
-	get_recommend_result_6.py:对最后分类结果取置信度，并得到相应的结果
+	get_recommend_result_6.py:对最后分类结果取置信度，并得到相应的推荐结果
 	
 	global_feature.py:提取全局比例特征
 	
 	product_test_data.py:产生测试数据
+	
+	classify_user_item.py:训练学习特征，并预测
 	
 [大赛排名] (http://tianchi.aliyun.com/competition/rankingList.htm?spm=0.0.0.0.OyeBsu&season=0&raceId=1&pageIndex=2)
